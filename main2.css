@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    line-height: ;
+    color: black;
+    background: gray;
+}
+
+img{
+    max-width: 150px;
+}
+
+h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h5{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.navbar{
+    background: rgb(14, 13, 13);
+    color: rgb(185, 175, 175);
+    height: 330px;
+}
+
+.logo{
+    font-size: xx-large;
+    font-weight: bold;
+}
